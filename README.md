@@ -1,19 +1,14 @@
-# Hi, ich bin bentho (der Zerstörer der Branches) 👋
+# Moin, ich bin bentho (der Zerstörer der Branches) 👋
 
 ```text
-        .-"""-.
-       /       \
-      |  o   o  |     ___________________
-      |    ^    |    |  >  AL_             |
-      |  \___/  |    |                     |
-       \       /     |  Business Central   |
-    ____`-.___.-'____|_____________________|
-   /   /|       |\   \
-  /___/ |_______| \___\
-     |  |  AL   |  |
-     |__|_______|__|
-     /  \       /  \
-    /____\     /____\
+   /\_____/\
+  /  o     o  \        ___________________
+ ( ==  ^ ^  == )      |  >  AL_           |
+  )    (_)    (       |                   |
+ (  )         (  )    |  Business Central |
+  (___________)       |___________________|
+     |  |   |  |
+    (__)  (__)
 ```
 
 > *"It works on my sandbox."* — every BC developer, ever
