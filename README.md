@@ -1,4 +1,4 @@
-# Hi, ich bin Benjamin Thoma 👋
+# Hi, ich bin bentho (der Zerstörer der Branches) 👋
 
 ```text
         .-"""-.
