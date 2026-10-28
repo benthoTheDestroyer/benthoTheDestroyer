@@ -42,10 +42,6 @@ Ich arbeite bei **OPED** in der **OPED Gruppe**. Dort geht es um Medizintechnik 
 - [ ] Bugs finden, bevor sie Bugs finden mich
 - [x] Kaffee nachfüllen
 
-## 📫 Kontakt
-
-- 📧 E-Mail: [bentho@oped.de](mailto:bentho@oped.de)
-
 ## 💬 Fun Facts
 
 - Mein Lieblingsbefehl ist `Ctrl + S`. Den drücke ich öfter als jeden anderen.
